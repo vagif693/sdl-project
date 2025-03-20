@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/SDL2_Zombie_Game_CPP.dir/src/main.cpp.o -o SDL2_Zombie_Game_CPP -F/Library/Frameworks  -Wl,-rpath,/Library/Frameworks /Library/Frameworks/SDL2.framework/Versions/A/SDL2
